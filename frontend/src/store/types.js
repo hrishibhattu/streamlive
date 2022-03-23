@@ -1,0 +1,2 @@
+export const SET_WEB3_PROVIDER = "SET_WEB3_PROVIDER";
+export const STREAM_CREATED = "STREAM_CREATED";

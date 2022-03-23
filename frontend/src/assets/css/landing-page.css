@@ -1,0 +1,43 @@
+.landing-page {
+  background-color: #0e1624;
+}
+
+.padding-top {
+  padding-top: 8rem;
+}
+
+.creator-box {
+  margin-bottom: 60px;
+}
+
+.web3modal-modal-lightbox {
+  z-index: 10 !important;
+}
+
+.register-overlay {
+  margin-bottom: 5rem;
+}
+
+.background-animation {
+  margin: auto;
+}
+
+.img-src-icon {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  object-fit: contain;
+}
+
+.square-cirle {
+  max-width: 300px;
+  margin: 1rem 0rem;
+}
+
+.my-rounded-cirlce {
+  border-radius: 50% !important;
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+  object-position: center;
+}

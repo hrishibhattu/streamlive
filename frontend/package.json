@@ -1,0 +1,73 @@
+{
+  "name": "streamlive",
+  "version": "1.1.0",
+  "description": "StreamLive - Pay as you Stream",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrishibhattu/streamlive"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "dapp",
+    "content-creator3.0"
+  ],
+  "author": "hrishibhattu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hrishibhattu/streamlive"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "@craco/craco": "^6.4.2",
+    "@toruslabs/torus-embed": "^1.14.0",
+    "@walletconnect/web3-provider": "^1.6.6",
+    "axios": "^0.21.1",
+    "babel-eslint": "10.x",
+    "bootstrap": "4.3.1",
+    "burner-provider": "^1.0.38",
+    "classnames": "2.2.6",
+    "ethers": "^5.5.1",
+    "fortmatic": "^2.2.1",
+    "headroom.js": "0.11.0",
+    "hls.js": "^1.1.1",
+    "ipfs-api": "^26.1.2",
+    "ipfs-http-client": "^54.0.0",
+    "moment": "2.24.0",
+    "node-sass": "^7.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-dropzone": "^11.4.2",
+    "react-loader-spinner": "^4.0.0",
+    "react-router": "6.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "reactstrap": "8.10.1",
+    "video.js": "^7.17.0",
+    "videojs-contrib-hls": "^5.15.0",
+    "videojs-contrib-quality-levels": "^2.1.0",
+    "videojs-hls-quality-selector": "^1.1.4",
+    "web3modal": "^1.9.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.8",
+    "jquery": "3.4.1",
+    "postcss": "^7.0.39",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
+  }
+}
